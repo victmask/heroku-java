@@ -1,0 +1,3 @@
+Simple Hello World java application with correct maven settings for Heroku. 
+The code is based on Heroku article http://blog.heroku.com/archives/2011/8/25/java/ 
+The problem with the example from the article - it does not actually work. Current project contains necessary fixes in pom.xml to make a successful deploy on Heroku.
